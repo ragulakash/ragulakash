@@ -1,24 +1,128 @@
-# 💫 About Me:
-🚀 Passionate Computer Science Engineering student @ SRM University with a strong interest in Artificial Intelligence, Machine Learning, and Full Stack Development. I love building real-world projects that solve problems through data-driven insights and intelligent systems.<br><br>💡 Experienced in working with Python, C/C++, JavaScript, SQL, Flask, and React.js. I’ve built projects ranging from AI chatbots and ML models to data dashboards and web applications.<br><br>🌱 Currently leveling up my skills in machine learning, data analysis, and full stack development while actively solving DSA problems on platforms like LeetCode and GeeksforGeeks.<br><br>🎯 Open to internships, collaborations, and open-source contributions where I can apply my skills and grow while making an impact.
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=220&section=header&text=Ragul%20Akash&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%40%20Kryptos%20Infosys&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Ragul Akash"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragulakash1794) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ragulakash1794@gmail.com) 
+### Engineering Intelligence. Building What's Next.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ragulakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ragulakash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragulakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**AI Engineer · Computer Science Engineering Graduate**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ragulakash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragulakash1794)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ragulakash1794@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ragulakash)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ragulakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ragulakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` — About Me
+
+I'm an **AI Engineer at Kryptos Infosys** and a Computer Science Engineering graduate passionate about building intelligent, efficient, and reliable software systems.
+
+I enjoy working at the intersection of artificial intelligence and software engineering, turning technical ideas into practical solutions. My interests include AI/ML, backend development, intelligent automation, and deploying systems that perform effectively in real-world environments.
+
+- **Currently:** Working as an AI Engineer at Kryptos Infosys.
+- **Core interests:** Artificial Intelligence, Machine Learning, and Software Engineering.
+- **Building with:** Python, backend frameworks, data-processing tools, and modern development technologies.
+- **Mindset:** Learn continuously, solve problems thoughtfully, and engineer for reliability.
+
+> *Beyond making AI work, I’m interested in making it useful, efficient, and dependable.*
+
+## `02` — Areas of Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Artificial Intelligence
+
+- Machine Learning
+- AI-powered applications
+- Intelligent automation
+- Data-driven problem solving
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Software Engineering
+
+- Python development
+- Backend systems and REST APIs
+- Data processing and analytics
+- Application deployment and optimization
+
+</td>
+</tr>
+</table>
+
+## `03` — Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**AI, Machine Learning & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222222)
+
+**Databases, Cloud & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ragulakash&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=00D9FF&text_color=CDD6E0&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulakash&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=CDD6E0" alt="Most used programming languages"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ragulakash&hide_border=true&background=080B16&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=CDD6E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8995A8" alt="GitHub contribution streak"/>
+
+</div>
+
+## `05` — Beyond the Code
+
+- Continuously exploring emerging AI technologies and engineering practices.
+- Strengthening problem-solving and programming fundamentals.
+- Interested in building practical applications and contributing to meaningful projects.
+
+## `06` — Let's Connect
+
+<div align="center">
+
+### Have an interesting idea? Let's build something meaningful.
+
+Open to connecting with developers, exchanging ideas, and exploring interesting engineering challenges.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragulakash1794)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulakash1794@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:080B16&height=100&section=footer" width="100%" alt="Footer decoration"/>
+
+</div>
