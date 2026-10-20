@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=220&section=header&text=Ragul%20Akash&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%40%20Kryptos%20Infosys&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Ragul Akash"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=220&section=header&text=Ragul%20Akash&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%40%20Kryptos%20Infosys&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Ragul Akash — AI Engineer"/>
 
 ### Engineering Intelligence. Building What's Next.
 
@@ -18,14 +18,15 @@
 
 I'm an **AI Engineer at Kryptos Infosys** and a Computer Science Engineering graduate passionate about building intelligent, efficient, and reliable software systems.
 
-I enjoy working at the intersection of artificial intelligence and software engineering, turning technical ideas into practical solutions. My interests include AI/ML, backend development, intelligent automation, and deploying systems that perform effectively in real-world environments.
+I work at the intersection of artificial intelligence and software engineering, with interests in AI agents, machine learning, backend development, and intelligent automation. I enjoy turning complex technical problems into practical solutions while continuously improving system performance and reliability.
 
-- **Currently:** Working as an AI Engineer at Kryptos Infosys.
-- **Core interests:** Artificial Intelligence, Machine Learning, and Software Engineering.
-- **Building with:** Python, backend frameworks, data-processing tools, and modern development technologies.
-- **Mindset:** Learn continuously, solve problems thoughtfully, and engineer for reliability.
+- **Current role:** AI Engineer at Kryptos Infosys
+- **Core focus:** AI engineering, AI agents, and backend systems
+- **Primary language:** Python
+- **Working with:** APIs, databases, cloud technologies, and containerization
+- **Engineering mindset:** Build thoughtfully, optimize continuously, and deliver reliable solutions.
 
-> *Beyond making AI work, I’m interested in making it useful, efficient, and dependable.*
+> *Beyond making AI work, I want to make it useful, efficient, and dependable.*
 
 ## `02` — Areas of Focus
 
@@ -33,22 +34,22 @@ I enjoy working at the intersection of artificial intelligence and software engi
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Artificial Intelligence
+### ◈ AI Engineering
 
-- Machine Learning
-- AI-powered applications
+- AI agents and LLM applications
+- Machine learning fundamentals
 - Intelligent automation
-- Data-driven problem solving
+- AI system integration
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Software Engineering
+### ◈ Backend & Infrastructure
 
-- Python development
-- Backend systems and REST APIs
-- Data processing and analytics
-- Application deployment and optimization
+- Python backend development
+- REST API design and development
+- PostgreSQL and data management
+- Cloud deployment and Docker
 
 </td>
 </tr>
@@ -58,37 +59,29 @@ I enjoy working at the intersection of artificial intelligence and software engi
 
 <div align="center">
 
-**Languages**
+**Programming Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222222)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Frameworks**
+**AI Engineering & Machine Learning**
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**AI, Machine Learning & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222222)
-
-**Databases, Cloud & Tools**
+**Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud, Containers & Version Control**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -108,9 +101,10 @@ I enjoy working at the intersection of artificial intelligence and software engi
 
 ## `05` — Beyond the Code
 
-- Continuously exploring emerging AI technologies and engineering practices.
-- Strengthening problem-solving and programming fundamentals.
-- Interested in building practical applications and contributing to meaningful projects.
+- Exploring new developments in AI engineering and agentic systems.
+- Strengthening software design and problem-solving skills.
+- Learning to build, deploy, and maintain reliable applications.
+- Interested in meaningful technical collaborations and open-source contributions.
 
 ## `06` — Let's Connect
 
@@ -118,7 +112,7 @@ I enjoy working at the intersection of artificial intelligence and software engi
 
 ### Have an interesting idea? Let's build something meaningful.
 
-Open to connecting with developers, exchanging ideas, and exploring interesting engineering challenges.
+Always interested in connecting with developers, exchanging ideas, and exploring challenging engineering problems.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragulakash1794)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulakash1794@gmail.com)
